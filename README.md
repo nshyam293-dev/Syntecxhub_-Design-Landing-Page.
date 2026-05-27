@@ -18,8 +18,6 @@ A high-fidelity UI design for a modern cafe's landing page, created entirely in 
 
 Designed with responsiveness in mind:
 - Desktop (1440px)
-- Tablet (768px)
-- Mobile (375px)
 
 ## 🧩 Figma Features Used
 
@@ -28,19 +26,6 @@ Designed with responsiveness in mind:
 - Component library (buttons, cards, nav bar)
 - Prototyping with basic click-through flows
 
-## 📎 Links
-
-- [Figma Prototype Link](add your shareable link here)
-- [Figma File (View Only)](add your link here)
-
-## 🖼️ Preview
-
-![Landing Page Preview](add-screenshot-link-here)
-
 ## 👩‍🎨 Purpose
 
 This project was built to strengthen my UI design skills, explore cafe-themed branding, and create a portfolio-ready landing page concept.
-
-## 📄 License
-
-Feel free to reference this design for inspiration — please credit if reusing.
